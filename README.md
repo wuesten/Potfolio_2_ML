@@ -43,3 +43,5 @@ Thus, this input should only be included for benchmark purposes and should be di
 
 #####  Output variable (desired target):
 21 - y - has the client subscribed a term deposit? (binary: 'yes','no') <br>
+
+![alt text](https://github.com/wuesten/Potfolio_2_ML/output/main/test.png?raw=true)
